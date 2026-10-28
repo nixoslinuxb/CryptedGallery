@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration (machine specific)
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.hprof
+captures/
+
+# Build output
+*.apk
+*.aab
+
+# Signing material
+*.jks
+*.keystore
+
+# OS
+.DS_Store
