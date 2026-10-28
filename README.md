@@ -50,7 +50,12 @@ echo "sdk.dir=/path/to/Android/Sdk" > local.properties
 
 The debug APK is written to `app/build/outputs/apk/debug/app-debug.apk`.
 
-## License notice
+## License
+
+CryptedGallery is licensed under the **GNU Affero General Public License v3.0**.
+See [LICENSE](LICENSE) for the full text.
+
+### Third-party license notice
 
 This project depends on **iText 7**, which is licensed under the **AGPL**. If you
 redistribute modified versions of this app, the AGPL obligations apply. A commercial
